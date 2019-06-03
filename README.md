@@ -1,2 +1,3 @@
 # ContainerTutorial
-Resources fot the container tutorial
+
+Resources for the container tutorial
